@@ -1,4 +1,6 @@
 # podyplomowe2
-Nie wiem co tu ma być, ale generalnie jest to progam do przeliczania stopni Farenhita na Celsjusza ;)
+Jest to progam do przeliczania stopni Farenhita na Celsjusza ;)
+#Java
+#działa
 
 ![Obrazek](Krzysiek.jfif)
